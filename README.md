@@ -59,15 +59,22 @@ Building scalable APIs • Clean Architecture • Production-ready systems
 - Clean MVC architecture
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudSabryy&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudSabry&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MahmoudSabryy&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=MahmoudSabry&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MahmoudSabry&theme=onedark&no-frame=true" />
 </p>
 
 ---
